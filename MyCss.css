@@ -1,0 +1,37 @@
+ body
+            {
+                background: bisque;
+            }
+            #maindiv
+            {
+               width:998px;
+               margin:auto;
+            }
+            #header
+            {
+                background: brown;
+                height:150px;
+            }
+            #menu
+            {
+                background: antiquewhite;
+                height: 40px;
+            }
+            #content
+            {
+                background: aquamarine;
+                height: 400px;
+            }
+            #footer
+            {
+                background: antiquewhite;
+                height: 40px;
+            }
+            a
+            {
+                margin-left: 40px;
+                text-decoration: none;
+                text-transform: uppercase;
+                color:brown;
+                font-weight: bolder;
+            }
